@@ -19,7 +19,7 @@
 
 </br>
 
-## :memo: HTML 
+## :memo: HTML
 
 - [](https://github.com/ichbinmin2/FE-Knowledge-Handbook/blob/main/HTML/여기에노트제목쓰세요.md)
 - []()
@@ -39,7 +39,7 @@
 
 ## :pushpin: Javascript
 
-- [](https://github.com/ichbinmin2/FE-Knowledge-Handbook/blob/main/Javascript/여기에노트제목쓰세요.md)
+- [자바스크립트의 데이터 타입](https://github.com/ichbinmin2/FE-Knowledge-Handbook/blob/main/Javascript/자바스크립트의-데이터-타입.md)
 - []()
 - []()
 - []()
