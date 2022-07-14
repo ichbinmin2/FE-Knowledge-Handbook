@@ -21,7 +21,7 @@
 
 ## :memo: HTML
 
-- [](https://github.com/ichbinmin2/FE-Knowledge-Handbook/blob/main/HTML/여기에노트제목쓰세요.md)
+- [Semantic Markup 태그를 써야 하는 이유](https://github.com/ichbinmin2/FE-Knowledge-Handbook/blob/main/HTML/Semantic.md)
 - []()
 - []()
 - []()
